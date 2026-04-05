@@ -25,7 +25,4 @@ This project introduces the **Walkie-Textie**, a short-range, localized communic
  ## Circuit Schematic
 ![circuit](https://github.com/user-attachments/assets/9b25d22c-7d36-45b6-85c2-2a93ca209496)
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
